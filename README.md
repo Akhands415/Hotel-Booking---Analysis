@@ -3,10 +3,6 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 We will perform exploratory data analysis with python to get insight from the data.
 
-This article on medium explains the entire the process
-
-[Github Link](Exploratory Data Analysis of the Hotel Booking Demand with Python)
-
 
 # We have tried to answer the following Questions
 
