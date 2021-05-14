@@ -39,35 +39,47 @@ This repository contains two files other than readme file
 
 ## Dataset contains following features:
 
-hotel
-is_canceled
-lead_time
-arrival_date_year
-arrival_date_month
-arrival_date_week_number
-arrival_date_day_of_month
-stays_in_weekend_nights
-stays_in_week_nights
-adults
-children
-babies
-meal
-country
-market_segment
-distribution_channel
-is_repeated_guest
-previous_cancellations
-previous_bookings_not_canceled
-reserved_room_type
-assigned_room_type
-booking_changes
-deposit_type
-agent
-company
-days_in_waiting_list
-customer_type
-adr
-required_car_parking_spaces
-total_of_special_requests
-reservation_status
-reservation_status_date
+1. hotel
+2. is_canceled
+3. lead_time
+4. arrival_date_year
+5. arrival_date_month
+6. arrival_date_week_number
+7. arrival_date_day_of_month
+8. stays_in_weekend_nights
+9. stays_in_week_nights
+10. adults
+11. children
+12. babies
+13. meal
+14. country
+15. market_segment
+16. distribution_channel
+17. is_repeated_guest
+18. previous_cancellations
+19. previous_bookings_not_canceled
+20. reserved_room_type
+21. assigned_room_type
+22. booking_changes
+23. deposit_type
+24. agent
+25. company
+26. days_in_waiting_list
+27. customer_type
+28. adr
+29. required_car_parking_spaces
+30. total_of_special_requests
+31. reservation_status
+32. reservation_status_date
+
+
+
+# Dataset Information:
+
+ Data was posted on Kaggle by Jesse Mostipak. It is available to download Here: https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
+## Acknowledgements
+
+The data is originally from the article Hotel Booking - Analysis Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
+
+The data was downloaded and cleaned by Thomas Mock and Antoine Bichat for #TidyTuesday during the week of February 11th, 2020.
