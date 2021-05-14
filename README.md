@@ -27,6 +27,7 @@ We have used Python 3 to its following packages:
   3. Seaborn
   4. Sklearn
   5. pycountry
+  6. Numpy
   
 
 # Files
